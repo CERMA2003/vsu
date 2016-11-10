@@ -1,0 +1,39 @@
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FactsInterface.resources
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\Home.dll
+C:\Users\RTCALVO\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\ButtonLog.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.AXVLC.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary2.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary2.pdb
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary2.xml
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FactsInterface.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HistoricalEvents.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AboutTheApps.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PlayAGame.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.xml
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RightToDoInterface.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\RTCALVO_FILES\Desktop\PROJECT PRO C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Film.resources
