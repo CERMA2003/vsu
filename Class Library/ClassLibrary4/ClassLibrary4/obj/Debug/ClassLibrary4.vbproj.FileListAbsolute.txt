@@ -1,0 +1,2 @@
+C:\Users\JRLawaspogi\Desktop\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.Resources.resources
+C:\Users\JRLawaspogi\Desktop\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.vbproj.GenerateResource.Cache

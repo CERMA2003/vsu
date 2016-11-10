@@ -1,0 +1,8 @@
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.pdb
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.Resources.resources
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.vbproj.GenerateResource.Cache
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.pdb

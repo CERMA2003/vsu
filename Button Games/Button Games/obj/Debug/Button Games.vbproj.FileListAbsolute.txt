@@ -1,0 +1,8 @@
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\bin\Debug\Button Games.dll
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\bin\Debug\Button Games.pdb
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\bin\Debug\Button Games.xml
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\obj\Debug\Button_Games.Resources.resources
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\obj\Debug\Button Games.vbproj.GenerateResource.Cache
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\obj\Debug\Button Games.dll
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\obj\Debug\Button Games.xml
+C:\Users\JRLawaspogi\Desktop\Button Games\Button Games\obj\Debug\Button Games.pdb

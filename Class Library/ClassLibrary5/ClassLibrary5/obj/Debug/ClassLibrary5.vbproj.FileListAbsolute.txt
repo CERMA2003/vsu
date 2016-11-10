@@ -1,0 +1,8 @@
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.Resources.resources
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.vbproj.GenerateResource.Cache
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb

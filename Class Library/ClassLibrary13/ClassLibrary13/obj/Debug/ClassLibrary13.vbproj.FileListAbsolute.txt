@@ -1,0 +1,8 @@
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\bin\Debug\ClassLibrary13.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\bin\Debug\ClassLibrary13.pdb
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\bin\Debug\ClassLibrary13.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\obj\Debug\ClassLibrary13.Resources.resources
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\obj\Debug\ClassLibrary13.vbproj.GenerateResource.Cache
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\obj\Debug\ClassLibrary13.dll
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\obj\Debug\ClassLibrary13.xml
+C:\Users\JRLawaspogi\Desktop\ClassLibrary13\ClassLibrary13\obj\Debug\ClassLibrary13.pdb
